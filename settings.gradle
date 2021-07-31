@@ -1,0 +1,2 @@
+rootProject.name = "MyDzMaketTwo"
+include ':app'
